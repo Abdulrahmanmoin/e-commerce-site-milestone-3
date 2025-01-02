@@ -1,8 +1,9 @@
+import HeroSec from "@/components/HeroSec";
 
 export default function Home() {
   return (
     <div>
-      E-commerce
+     <HeroSec/>
     </div>
   );
 }
